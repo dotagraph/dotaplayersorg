@@ -12,28 +12,29 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://dotaplayers.org'
 
-author: your_full_name                  # change to your full name
+author: Chris Missal                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: dotagraph             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: DotaPlayersOrg            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Dota Players ORG                  # it will shows as the copyright owner in Footer
+  email: chris.missal@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/DotaPlayersOrg      # change to your twitter homepage
+    - https://github.com/dotagraph       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
+# TODO:
+#google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
 
 
@@ -72,14 +73,15 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:   #[dark|light]
+theme: jekyll-theme-chirpy
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: ''
+img_cdn: 'https://dpo.azureedge.net'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
@@ -148,15 +150,15 @@ defaults:
           url: /tabs/tags/
   -
     scope:
-      path: categories
+      path: projects
     values:
       breadcrumb:
         -
           label: Home
           url: /
         -
-          label: Categories
-          url: /tabs/categories/
+          label: Projects
+          url: /tabs/projects/
   -
     scope:
       path: ''
