@@ -1,6 +1,6 @@
 ---
-layout: categories
-title: Categories
+layout: post
+title: Posts
 icon: fas fa-stream
 order: 1
 ---

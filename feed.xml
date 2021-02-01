@@ -38,7 +38,7 @@ layout: compress
       <name>{{ site.author }}</name>
     </author>
 
-  {% if post.categories %}
+  {% if post.projects %}
     {% for category in post.categories %}
     <category term="{{ category }}" />
     {% endfor %}
