@@ -1,12 +1,11 @@
 ---
+layout: post
 title: About
 icon: fas fa-info
 order: 5
 ---
 
-# About
-
-## Our Team
+# The Team
 
 <section class="team-members">
     <div class="team-member">

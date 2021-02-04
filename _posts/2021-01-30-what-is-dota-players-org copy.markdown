@@ -2,7 +2,7 @@
 layout: post
 title:  "Community Driven Dota Initiatives"
 date:   2021-01-30 18:00:00 -0600
-tags: update introduction
+tags: updates introductions
 author: Chris Missal
 ---
 
