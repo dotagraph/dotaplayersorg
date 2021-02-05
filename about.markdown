@@ -4,7 +4,7 @@ title: About DotaPlayers.org
 permalink: /about/
 ---
 
-# Nerif
+# About Dota Players ORG
 
 ## Your pre-game assistant
 

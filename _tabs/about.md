@@ -1,21 +1,16 @@
 ---
 layout: post
-title: About
+title: About / Join
 icon: fas fa-info
 order: 5
 ---
 
-# The Team
+# Who are we?
 
-<section class="team-members">
-    <div class="team-member">
-        <p><img src="#" width="200" height="200" /></p>
-        <p><h3>Chris Missal</h3></p>
-        <p>Founder and Lead Developer</p>
-    </div>
-    <div class="team-member">
-        <p><img src="#" width="200" height="200" /></p>
-        <p><h3>First Last</h3></p>
-        <p>Some other title here</p>
-    </div>
-</section>
+We our a collection of individuals looking for ways to collaborate to make more fun and entertaining Dota 2 experiences.
+
+## Become a member
+
+You can become a member by joining our Discord server and accepting the terms. Any violation of the terms may result in suspension or a ban.
+
+<iframe src="https://discord.com/widget?id=806786809408913459&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
