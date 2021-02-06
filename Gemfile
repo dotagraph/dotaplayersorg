@@ -2,7 +2,6 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.1"
 gem "jekyll-theme-chirpy"
-gem "oryx"
 
 # plugins
 group :jekyll_plugins do
