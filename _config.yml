@@ -4,12 +4,13 @@
 # --------------------------
 title: Dota Players ORG                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: A community driven Dota 2 experiment   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A Dota 2 community-driven experiment. The goal is to help connect
+  individuals who would like spaces to collaborate online to build
+  fun, informative, or innovative Dota 2 experiences.
+  
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://dotaplayers.org'
@@ -17,7 +18,7 @@ url: 'https://dotaplayers.org'
 author: Chris Missal                  # change to your full name
 
 github:
-  username:              # change to your github username
+  username: dotagraph             # change to your github username
 
 twitter:
   username: DotaPlayersOrg            # change to your twitter username
@@ -81,7 +82,7 @@ theme: jekyll-theme-chirpy
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://dpo.azureedge.net'
+#img_cdn: 'https://dpo.azureedge.net'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
