@@ -7,4 +7,4 @@ categories: Nerif
 author: Chris Missal
 ---
 
-No matter your the amount of resources at your disposal, we want to give you some top notch analysis. That's why we've introduced [Nerif](/projects/nerif/). It's a brand new project, so stay tuned to [our twitter feed](https://twitter.com/DotaPlayersOrg) for more updates!.
+No matter your the amount of resources at your disposal, we want to give you some top notch analysis. That's why we've introduced [Nerif](https://nerif.dotaplayers.org).
